@@ -1,6 +1,7 @@
-# My DSLink
+# SmartThings DSLink
 
-This is my DSLink. It's great, use it everywhere.
+Plan on creating a DSlink to be able to connect to the SmartThings Hub REST API
+CREATED FOR LEARNING PURPOSES UP TILL NOW
 
 ## Usage
 
@@ -8,4 +9,3 @@ This is my DSLink. It's great, use it everywhere.
 pub get
 dart bin/run.dart
 ```
-
